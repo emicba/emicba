@@ -1,0 +1,19 @@
+{
+  "name": "gh-emicba",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Write random parrot to README.md ✨",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node index.js"
+  },
+  "keywords": [],
+  "author": "Emiliano Córdoba",
+  "license": "MIT",
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "lodash.sample": "^4.2.1",
+    "node-fetch": "^2.6.1"
+  },
+  "type": "module"
+}
