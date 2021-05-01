@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/sidewaysparrot.gif" alt="Sideways Parrot" />
+<img src="https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/slowparrot.gif" alt="Slow Parrot" />
