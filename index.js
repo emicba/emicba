@@ -15,7 +15,7 @@ try {
     const parrot = sample(data.filter((x) => x.hd));
     await fs.writeFile(
       './README.md',
-      `<img src="${repo}/parrots/${parrot.hd}" alt="${parrot.name}" />`
+      `<h2>Today is ${parrot.name}'s day</h2><img src="${repo}/parrots/${parrot.hd}" />`
     );
     process.exit(0);
   }
