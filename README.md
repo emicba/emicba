@@ -1,1 +1,1 @@
-<h2>Today is Hanami Parrot's day</h2><img src="https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/hanamiparrot.gif" />
+<h2>Today is Stay TF Home Parrot's day</h2><img src="https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/staytfhomeparrot.gif" />
