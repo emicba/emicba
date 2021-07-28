@@ -1,1 +1,1 @@
-<h2>Today is Marshmallow Parrot's day</h2><img src="https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/marshmallowparrot.gif" />
+<h2>Today is Aussie Conga Line Parrot's day</h2><img src="https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/aussiecongaparrot.gif" />
