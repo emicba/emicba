@@ -1,1 +1,1 @@
-<h2>Today is Boom Parrot's day</h2><img src="https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/boomparrot.gif" />
+<h2>Today is Turn Down for Watch's day</h2><img src="https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/turndownforwatchparrot.gif" />
