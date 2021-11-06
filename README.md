@@ -1,1 +1,1 @@
-<h2>Today is Bored Parrot's day</h2><img src="https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/boredparrot.gif" />
+<h2>Today is Meld Parrot's day</h2><img src="https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/meldparrot.gif" />
