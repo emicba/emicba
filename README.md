@@ -1,1 +1,1 @@
-<h2>Today is Tie Dye Parrot's day</h2><img src="https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/tiedyeparrot.gif" />
+<h2>Today is Sith Parrot's day</h2><img src="https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/sithparrot.gif" />
