@@ -1,1 +1,1 @@
-<h2>Today is Mardi Gras Parrot's day</h2><img src="https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/mardigrasparrot.gif" />
+<h2>Today is Jr. Bounce Parrot's day</h2><img src="https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/jumpingparrotjr.gif" />
