@@ -1,1 +1,1 @@
-<h2>Today is Groucho Parrot's day</h2><img src="https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/grouchoparrot.gif" />
+<h2>Today is COVID-19 Parrot's day</h2><img src="https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/covid19parrot.gif" />
