@@ -1,1 +1,1 @@
-<h2>Today is Yosemite Sam Parrot's day</h2><img src="https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/yosemitesamparrot.gif" />
+<h2>Today is Reee Parrot's day</h2><img src="https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/reeeparrot.gif" />
