@@ -1,1 +1,1 @@
-<h2>Today is Portal Parrot (Orange Portal)'s day</h2><img src="https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/portalorangeparrot.gif" />
+<h2>Today is Vaccine Parrot's day</h2><img src="https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/vaccineparrot.gif" />
