@@ -1,1 +1,5 @@
-<h2>Today is Illuminati Parrot's day</h2><img src="https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/illuminatiparrot.gif" />
+## Today is Popcorn Parrot's day
+
+![An animated GIF of a parrot, probably multi-colored](https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/popcornparrot.gif)
+
+*This image is automatically updated daily.*
