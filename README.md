@@ -1,5 +1,5 @@
-## Today is Vertical Parrot's day
+## Today is Bored Parrot's day
 
-![An animated GIF of a parrot, probably multi-colored](https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/verticalparrot.gif)
+![An animated GIF of a parrot, probably multi-colored](https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/boredparrot.gif)
 
 *This image is automatically updated daily.*
