@@ -1,5 +1,5 @@
-## Today is Race Condition Parrot's day
+## Today is Kinda Sus Parrot's day
 
-![An animated GIF of a parrot, probably multi-colored](https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/raceconditionparrot.gif)
+![An animated GIF of a parrot, probably multi-colored](https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/kindasusparrot.gif)
 
 *This image is automatically updated daily.*
