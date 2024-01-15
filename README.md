@@ -1,5 +1,5 @@
-## Today is Quad Parrot's day
+## Today is Short Parrot's day
 
-![An animated GIF of a parrot, probably multi-colored](https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/quadparrot.gif)
+![An animated GIF of a parrot, probably multi-colored](https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/shortparrot.gif)
 
 *This image is automatically updated daily.*
