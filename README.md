@@ -1,5 +1,5 @@
-## Today is Jedi Parrot's day
+## Today is Reverse Parrot's day
 
-![An animated GIF of a parrot, probably multi-colored](https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/jediparrot.gif)
+![An animated GIF of a parrot, probably multi-colored](https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/reverseparrot.gif)
 
 *This image is automatically updated daily.*
