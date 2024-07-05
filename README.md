@@ -1,5 +1,5 @@
-## Today is Biker Parrot's day
+## Today is Everything Is Fine Parrot's day
 
-![An animated GIF of a parrot, probably multi-colored](https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/bikerparrot.gif)
+![An animated GIF of a parrot, probably multi-colored](https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/everythingsfineparrot.gif)
 
 *This image is automatically updated daily.*
