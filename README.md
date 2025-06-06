@@ -1,5 +1,5 @@
-## Today is Catch ball Left Parrot's day
+## Today is Merge Conflict Parrot's day
 
-![An animated GIF of a parrot, probably multi-colored](https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/playcatchleftparrot.gif)
+![An animated GIF of a parrot, probably multi-colored](https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/mergeconflictparrot.gif)
 
 *This image is automatically updated daily.*
