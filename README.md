@@ -1,5 +1,5 @@
-## Today is 151 Pokémon Parrot's day
+## Today is Glimpse Parrot's day
 
-![An animated GIF of a parrot, probably multi-colored](https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/pokeparrot.gif)
+![An animated GIF of a parrot, probably multi-colored](https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/glimpseparrot.gif)
 
 *This image is automatically updated daily.*
