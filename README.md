@@ -1,5 +1,5 @@
-## Today is Laptop Parrot's day
+## Today is Hmm Parrot's day
 
-![An animated GIF of a parrot, probably multi-colored](https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/laptop_parrot.gif)
+![An animated GIF of a parrot, probably multi-colored](https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/hmmparrot.gif)
 
 *This image is automatically updated daily.*
