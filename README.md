@@ -1,5 +1,5 @@
-## Today is Merge Conflict Parrot's day
+## Today is French Parrot's day
 
-![An animated GIF of a parrot, probably multi-colored](https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/mergeconflictparrot.gif)
+![An animated GIF of a parrot, probably multi-colored](https://raw.githubusercontent.com/jmhobbs/cultofthepartyparrot.com/master/parrots/hd/frenchparrot.gif)
 
 *This image is automatically updated daily.*
